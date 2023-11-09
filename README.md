@@ -37,7 +37,7 @@ To run this game, you'll need Node.js installed on your computer. If you don't h
    ```bash
    cd one-piece-trivia
    ```
-3.Install the required dependencies
+3. Install the required dependencies
 
    ```bash
    npm i chalk readline-sync
