@@ -41,8 +41,11 @@ To run this game, you'll need Node.js installed on your computer. If you don't h
 
    ```bash
    npm i chalk readline-sync
-
+   ```
 ### Usage
    ```bash
    node index.js
+   ```
+   Follow the on screen instructions to start playing the One Piece Trivia Game.
+
 
