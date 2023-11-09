@@ -30,4 +30,9 @@ To run this game, you'll need Node.js installed on your computer. If you don't h
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/one-piece-trivia.git
+   git clone https://github.com/WebPioneerPro/one-piece-trivia.git
+
+2. Navigate to the project directory
+   cd one-piece-trivia
+3.Install the required dependencies
+   npm install
