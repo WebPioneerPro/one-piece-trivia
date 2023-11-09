@@ -1,6 +1,6 @@
 # One Piece Trivia Game
 
-![One Piece Logo](one_piece_logo.png)
+![Game Screenshot](game_screenshot.png)
 
 Test your knowledge of the One Piece anime with this command-line trivia game.
 
