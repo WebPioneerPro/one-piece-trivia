@@ -42,10 +42,32 @@ To run this game, you'll need Node.js installed on your computer. If you don't h
    ```bash
    npm i chalk readline-sync
    ```
+   
 ### Usage
+
    ```bash
    node index.js
    ```
    Follow the on screen instructions to start playing the One Piece Trivia Game.
+   
+### Game Rules
 
+- You'll be presented with a series of multiple-choice questions.
+- Choose the correct answer by typing the corresponding number (e.g., "1" or "2").
+- Your score will be displayed at the end of the game.
+- Try to answer as many questions correctly as you can and challenge your One Piece knowledge!
+  
+### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- Inspired by the amazing world of "One Piece" created by Eiichiro Oda.
+
+## Contact
+
+- Prabhanjan Sahu
+- Email: prabhanjansahu5@gmail.com
+- Github: https://github.com/WebPioneerPro
 
