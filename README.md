@@ -32,7 +32,17 @@ To run this game, you'll need Node.js installed on your computer. If you don't h
    ```bash
    git clone https://github.com/WebPioneerPro/one-piece-trivia.git
 
-2. Navigate to the project directory
+2. Navigate to the project directory.
+   
+   ```bash
    cd one-piece-trivia
+   
 3.Install the required dependencies
-   npm install
+
+   ```bash
+   npm i chalk readline-sync
+
+### Usage
+   ```bash
+   node index.js
+
